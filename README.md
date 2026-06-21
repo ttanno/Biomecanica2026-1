@@ -85,7 +85,7 @@ Contiene scripts auxiliares utilizados durante el desarrollo del proyecto.
 4. Procesar y recortar las señales.
 5. Guardar los resultados en `angulos_recortados`.
 6. Utilizar los archivos de `angulos_recortados` para generar los structs de MATLAB.
-7. Ejecutar y continuar el análisis desde `CODIGOLUCHO2.mlx`.
+7. Ejecutar y continuar el análisis desde `CODIGOLUCHO3.mlx`.
 
 ---
 
@@ -122,4 +122,4 @@ git push
 - No subir videos originales al repositorio.
 - Los archivos de video deben almacenarse localmente fuera del proyecto.
 - Los archivos de `angulos_recortados` son la fuente principal para la generación de structs y análisis posteriores.
-- `CODIGOLUCHO2.mlx` contiene la versión más actualizada del procesamiento implementado.
+- `CODIGOLUCHO3.mlx` contiene la versión más actualizada del procesamiento implementado.
